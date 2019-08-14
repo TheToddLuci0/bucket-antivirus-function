@@ -12,6 +12,11 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
+#
+# Updated by @TheToddLuci0 for Python 3
+#
+
+
 import botocore
 import hashlib
 import os
